@@ -3,6 +3,12 @@
 ![GSF-GAN](https://github.com/user-attachments/assets/1a3a62a8-8f04-4e3f-b7c2-641026ed33df)
 
 ![Feature Matching Loss](https://github.com/user-attachments/assets/1a709da4-ea71-49a1-b5f1-48b52a41bb90)
+![Uploading 6.png…]()
+
+
+
+
+
 
 
 ## Refinement-Guided Text-to-Image Synthesis via Global Semantic Fusion GAN. 
