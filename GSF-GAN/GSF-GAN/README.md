@@ -1,7 +1,8 @@
 ### Example results
 
 
-![GSF-GAN](https://github.com/user-attachments/assets/1a3a62a8-8f04-4e3f-b7c2-641026ed33df)
+<img width="2415" height="1349" alt="1" src="https://github.com/user-attachments/assets/884881d1-8856-45f8-9982-c26fa6f96695" />
+
 
 ![Feature Matching Loss](https://github.com/user-attachments/assets/1a709da4-ea71-49a1-b5f1-48b52a41bb90)
 
