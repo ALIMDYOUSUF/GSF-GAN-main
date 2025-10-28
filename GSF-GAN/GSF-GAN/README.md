@@ -4,12 +4,8 @@
 
 ![Feature Matching Loss](https://github.com/user-attachments/assets/1a709da4-ea71-49a1-b5f1-48b52a41bb90)
 
-![IMAGE-TEXT  MATCHING LOSS](https://github.com/user-attachments/assets/ce8aec5f-90f6-4bcc-a1c5-55abfcf57d4e)
 
-![ChatGPT Image May 30, 2025, 10_57_37 PM](https://github.com/user-attachments/assets/25179902-7b6d-4a1d-a0ba-bce4d2789e00)
-
-
-##  Global Semantic Fusion Generative Adversarial Network (GSF-GAN). 
+## Refinement-Guided Text-to-Image Synthesis via Global Semantic Fusion GAN. 
 
 we propose a refinement-based framework designed as the "Global Semantic Fusion Generative Adversarial Network (GSF-GAN)". The fidelity and consistency of generated images are better matched through three key components.  
 
