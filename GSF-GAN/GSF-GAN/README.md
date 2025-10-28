@@ -1,9 +1,11 @@
 ### Example results
 
+
 ![GSF-GAN](https://github.com/user-attachments/assets/1a3a62a8-8f04-4e3f-b7c2-641026ed33df)
 
 ![Feature Matching Loss](https://github.com/user-attachments/assets/1a709da4-ea71-49a1-b5f1-48b52a41bb90)
 
+<img width="2685" height="2361" alt="MS-COCO Results" src="https://github.com/user-attachments/assets/ebd05889-b82b-47a4-8e79-522beb644a19" />
 
 
 
