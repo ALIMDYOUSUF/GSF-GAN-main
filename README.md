@@ -1,13 +1,10 @@
 ### Example results
 
+<img width="3021" height="1530" alt="Fig  1  Traditional fixed-length vs  our parser-guided attribute learning (PAL) architectures  Zoom in for better clarity" src="https://github.com/user-attachments/assets/2e1eb0f1-3778-4caa-a4ac-9d72c55cac16" />
 
-<img width="2415" height="1349" alt="1" src="https://github.com/user-attachments/assets/884881d1-8856-45f8-9982-c26fa6f96695" />
+<img width="3305" height="1905" alt="Fig  2  Overall architecture of GSF-GAN  Zoom in for better clarity" src="https://github.com/user-attachments/assets/ba82a52b-0b72-49ff-ade6-fbda0020e75b" />
 
-
-![Feature Matching Loss](https://github.com/user-attachments/assets/1a709da4-ea71-49a1-b5f1-48b52a41bb90)
-
-<img width="2685" height="2361" alt="MS-COCO Results" src="https://github.com/user-attachments/assets/ebd05889-b82b-47a4-8e79-522beb644a19" />
-
+<img width="2341" height="1590" alt="Fig  7   Examples of images synthesized by Patri  11 , LMD  13 , GALIP  15 , CLIP-GAN  16 , and our proposed GSF-GAN, which is c" src="https://github.com/user-attachments/assets/6265a478-6128-4b1f-93de-c623f76593f8" />
 
 
 ## Refinement-Guided Text-to-Image Synthesis via Global Semantic Fusion GAN. 
